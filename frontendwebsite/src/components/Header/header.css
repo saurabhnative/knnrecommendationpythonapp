@@ -1,0 +1,33 @@
+.header-row {
+  display: flex;
+  line-height: 17px;
+  margin-top: 18px;
+  color: white;
+}
+.header-title {
+  color: #ffffff;
+  font-family: 'Droid serif', serif;
+  font-size: 36px;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.options-row {
+  width: 50%;
+  height: 28px;
+  display: flex;
+  margin-left: auto;
+  align-items: center;
+}
+
+.option-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.option-select {
+  color: black;
+  width: 110px;
+  margin-left: 20px;
+}

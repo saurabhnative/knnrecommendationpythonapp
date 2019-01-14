@@ -1,0 +1,8 @@
+.tvShowCard {
+  width: 80%;
+  max-width: 250px;
+  min-width: 200px;
+  padding: 2%;
+  margin: 5%;
+  align-self: center;
+}
