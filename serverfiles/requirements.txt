@@ -19,6 +19,6 @@ scipy==1.2.0
 setuptools==40.6.3
 six==1.12.0
 sklearn==0.0
-urllib3==1.24.1
+urllib3==1.26.5
 Werkzeug==0.14.1
 wheel==0.32.3
